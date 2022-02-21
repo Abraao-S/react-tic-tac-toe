@@ -1,5 +1,8 @@
 # React Tic Tac Toe Game
 
+### Play the game [here](tic-tac-toe-ivory-two.vercel.app)
+<br/>
+
 ### Official mini-project from  [React documentation](https://reactjs.org/tutorial/tutorial.html)
 <br/>
 
